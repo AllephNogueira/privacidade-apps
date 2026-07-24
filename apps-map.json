@@ -1,341 +1,341 @@
 {
   "updated": "24 de julho de 2026",
   "publisher": {
-    "name": "Alleph Nogueira — Fábrica de Software",
+    "name": "Alleph Nogueira â€” FÃ¡brica de Software",
     "email": "allephnogueira@gmail.com",
     "country": "Brasil",
     "updated": "24 de julho de 2026"
   },
-  "basePathExample": "https://SEU_USUARIO.github.io/SEU_REPO/",
+  "basePathExample": "https://allephnogueira.github.io/privacidade-apps/",
   "apps": [
     {
       "folder": "Alta-Pressao-GNV",
       "label": "Alta Pressao GNV PRO",
       "applicationId": "com.allephnogueira.altapressaognvpro",
       "path": "home/privacidade-alta-pressao-gnv.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-alta-pressao-gnv.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-alta-pressao-gnv.html"
     },
     {
       "folder": "AluguelFacil",
       "label": "Aluguel Fácil",
       "applicationId": "com.allephnogueira.aluguelfacil",
       "path": "home/privacidade-aluguel-facil.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-aluguel-facil.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-aluguel-facil.html"
     },
     {
       "folder": "AutonomoPrecos",
       "label": "Autônomo Preços",
       "applicationId": "com.allephnogueira.autonomoprecos",
       "path": "home/privacidade-autonomo-precos.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-autonomo-precos.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-autonomo-precos.html"
     },
     {
       "folder": "CartaoFatura",
       "label": "Cartão Fatura",
       "applicationId": "com.allephnogueira.cartaofatura",
       "path": "home/privacidade-cartao-fatura.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-cartao-fatura.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-cartao-fatura.html"
     },
     {
       "folder": "LarControl",
       "label": "Casa em Dia",
       "applicationId": "com.allephnogueira.larcontrol",
       "path": "home/privacidade-lar-control.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-lar-control.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-lar-control.html"
     },
     {
       "folder": "CnhPontos",
       "label": "CNH Pontos",
       "applicationId": "com.allephnogueira.cnhpontos",
       "path": "home/privacidade-cnh-pontos.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-cnh-pontos.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-cnh-pontos.html"
     },
     {
       "folder": "ConcursoPlano",
       "label": "Concurso Plano",
       "applicationId": "com.allephnogueira.concursoplano",
       "path": "home/privacidade-concurso-plano.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-concurso-plano.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-concurso-plano.html"
     },
     {
       "folder": "CondominioPro",
       "label": "Condomínio Pro",
       "applicationId": "com.allephnogueira.condominiopro",
       "path": "home/privacidade-condominio-pro.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-condominio-pro.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-condominio-pro.html"
     },
     {
       "folder": "ConsorcioSim",
       "label": "Consórcio Sim",
       "applicationId": "com.allephnogueira.consorciosim",
       "path": "home/privacidade-consorcio-sim.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-consorcio-sim.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-consorcio-sim.html"
     },
     {
       "folder": "DiaristaAgenda",
       "label": "Diarista Agenda",
       "applicationId": "com.allephnogueira.diaristaagenda",
       "path": "home/privacidade-diarista-agenda.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-diarista-agenda.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-diarista-agenda.html"
     },
     {
       "folder": "DividasOrganiza",
       "label": "Dívidas Organiza",
       "applicationId": "com.allephnogueira.dividasorganiza",
       "path": "home/privacidade-dividas-organiza.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-dividas-organiza.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-dividas-organiza.html"
     },
     {
       "folder": "DriverIQ",
       "label": "DriverIQ",
       "applicationId": "com.motoristapro",
       "path": "home/privacidade-driver-iq.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-driver-iq.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-driver-iq.html"
     },
     {
       "folder": "EpiChecklist",
       "label": "EPI Checklist",
       "applicationId": "com.allephnogueira.epichecklist",
       "path": "home/privacidade-epi-checklist.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-epi-checklist.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-epi-checklist.html"
     },
     {
       "folder": "EscolaKids",
       "label": "Escola Kids",
       "applicationId": "com.allephnogueira.escolakids",
       "path": "home/privacidade-escola-kids.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-escola-kids.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-escola-kids.html"
     },
     {
       "folder": "FgtsSaque",
       "label": "FGTS Saque",
       "applicationId": "com.allephnogueira.fgtssaque",
       "path": "home/privacidade-fgts-saque.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-fgts-saque.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-fgts-saque.html"
     },
     {
       "folder": "FinanciaCarro",
       "label": "Financia Carro",
       "applicationId": "com.allephnogueira.financiacarro",
       "path": "home/privacidade-financia-carro.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-financia-carro.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-financia-carro.html"
     },
     {
       "folder": "FoodPrecifica",
       "label": "Food Precifica",
       "applicationId": "com.allephnogueira.foodprecifica",
       "path": "home/privacidade-food-precifica.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-food-precifica.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-food-precifica.html"
     },
     {
       "folder": "FreteCalc",
       "label": "FreteCalc Pro",
       "applicationId": "com.allephnogueira.fretecalc",
       "path": "home/privacidade-frete-calc.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-frete-calc.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-frete-calc.html"
     },
     {
       "folder": "FrotaManutencao",
       "label": "Frota Manutenção",
       "applicationId": "com.allephnogueira.frotamanutencao",
       "path": "home/privacidade-frota-manutencao.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-frota-manutencao.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-frota-manutencao.html"
     },
     {
       "folder": "GanhosCorrida",
       "label": "Ganhos Corrida",
       "applicationId": "com.allephnogueira.ganhoscorrida",
       "path": "home/privacidade-ganhos-corrida.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-ganhos-corrida.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-ganhos-corrida.html"
     },
     {
       "folder": "GasBotijao",
       "label": "Gás Botijão",
       "applicationId": "com.allephnogueira.gasbotijao",
       "path": "home/privacidade-gas-botijao.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-gas-botijao.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-gas-botijao.html"
     },
     {
       "folder": "GestanteSemana",
       "label": "Gestante Semana",
       "applicationId": "com.allephnogueira.gestantesemana",
       "path": "home/privacidade-gestante-semana.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-gestante-semana.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-gestante-semana.html"
     },
     {
       "folder": "HorasExtras",
       "label": "Horas Extras",
       "applicationId": "com.allephnogueira.horasextras",
       "path": "home/privacidade-horas-extras.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-horas-extras.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-horas-extras.html"
     },
     {
       "folder": "InmetroChecklist",
       "label": "INMETRO Checklist",
       "applicationId": "com.allephnogueira.inmetrochecklist",
       "path": "home/privacidade-inmetro-checklist.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-inmetro-checklist.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-inmetro-checklist.html"
     },
     {
       "folder": "InssPro",
       "label": "INSS Pro",
       "applicationId": "com.allephnogueira.insspro",
       "path": "home/privacidade-inss-pro.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-inss-pro.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-inss-pro.html"
     },
     {
       "folder": "InventarioLar",
       "label": "Inventário Lar",
       "applicationId": "com.allephnogueira.inventariolar",
       "path": "home/privacidade-inventario-lar.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-inventario-lar.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-inventario-lar.html"
     },
     {
       "folder": "IrpfDocs",
       "label": "IRPF Docs",
       "applicationId": "com.allephnogueira.irpfdocs",
       "path": "home/privacidade-irpf-docs.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-irpf-docs.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-irpf-docs.html"
     },
     {
       "folder": "MedicacaoLembrete",
       "label": "Medicação Lembrete",
       "applicationId": "com.allephnogueira.medicacaolembrete",
       "path": "home/privacidade-medicacao-lembrete.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-medicacao-lembrete.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-medicacao-lembrete.html"
     },
     {
       "folder": "MeiFiscal",
       "label": "MEI Fiscal",
       "applicationId": "com.allephnogueira.meifiscal",
       "path": "home/privacidade-mei-fiscal.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-mei-fiscal.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-mei-fiscal.html"
     },
     {
       "folder": "MudancaCasa",
       "label": "Mudança Casa",
       "applicationId": "com.allephnogueira.mudancacasa",
       "path": "home/privacidade-mudanca-casa.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-mudanca-casa.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-mudanca-casa.html"
     },
     {
       "folder": "Oikos",
       "label": "Oikos",
       "applicationId": "com.allephnogueira.oikos",
       "path": "home/privacidade-oikos.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-oikos.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-oikos.html"
     },
     {
       "folder": "OrcamentoObra",
       "label": "Orçamento Obra",
       "applicationId": "com.allephnogueira.orcamentoobra",
       "path": "home/privacidade-orcamento-obra.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-orcamento-obra.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-orcamento-obra.html"
     },
     {
       "folder": "PensaoCalc",
       "label": "Pensão Calc",
       "applicationId": "com.allephnogueira.pensaocalc",
       "path": "home/privacidade-pensao-calc.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-pensao-calc.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-pensao-calc.html"
     },
     {
       "folder": "PersonalFit",
       "label": "Personal Fit",
       "applicationId": "com.allephnogueira.personalfit",
       "path": "home/privacidade-personal-fit.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-personal-fit.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-personal-fit.html"
     },
     {
       "folder": "PetVacina",
       "label": "Pet Vacina",
       "applicationId": "com.allephnogueira.petvacina",
       "path": "home/privacidade-pet-vacina.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-pet-vacina.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-pet-vacina.html"
     },
     {
       "folder": "PlantaoEnfermagem",
       "label": "Plantão Enfermagem",
       "applicationId": "com.allephnogueira.plantaoenfermagem",
       "path": "home/privacidade-plantao-enfermagem.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-plantao-enfermagem.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-plantao-enfermagem.html"
     },
     {
       "folder": "PossoComprar",
       "label": "Posso Comprar?",
       "applicationId": "com.allephnogueira.possocomprar",
       "path": "home/privacidade-posso-comprar.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-posso-comprar.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-posso-comprar.html"
     },
     {
       "folder": "RateioCasa",
       "label": "Rateio Casa",
       "applicationId": "com.allephnogueira.rateiocasa",
       "path": "home/privacidade-rateio-casa.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-rateio-casa.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-rateio-casa.html"
     },
     {
       "folder": "RescisaoCLT",
       "label": "Rescisão CLT Pro",
       "applicationId": "com.allephnogueira.rescisaoclt",
       "path": "home/privacidade-rescisao-clt.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-rescisao-clt.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-rescisao-clt.html"
     },
     {
       "folder": "SalaoAgenda",
       "label": "Salão Agenda",
       "applicationId": "com.allephnogueira.salaoagenda",
       "path": "home/privacidade-salao-agenda.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-salao-agenda.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-salao-agenda.html"
     },
     {
       "folder": "SeguroDesemprego",
       "label": "Seguro Desemprego",
       "applicationId": "com.allephnogueira.segurodesemprego",
       "path": "home/privacidade-seguro-desemprego.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-seguro-desemprego.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-seguro-desemprego.html"
     },
     {
       "folder": "SinistroAuto",
       "label": "Sinistro Auto",
       "applicationId": "com.allephnogueira.sinistroauto",
       "path": "home/privacidade-sinistro-auto.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-sinistro-auto.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-sinistro-auto.html"
     },
     {
       "folder": "OrganizadordeAssinaturas",
       "label": "SubSync",
       "applicationId": "com.allephnogueira.organizadordeassinaturas",
       "path": "home/privacidade-organizador-de-assinaturas.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-organizador-de-assinaturas.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-organizador-de-assinaturas.html"
     },
     {
       "folder": "TecnoGestor",
       "label": "TecnoGestor",
       "applicationId": "com.allephnogueira.tecnogestor",
       "path": "home/privacidade-tecno-gestor.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-tecno-gestor.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-tecno-gestor.html"
     },
     {
       "folder": "TrocaOleo",
       "label": "Troca de Óleo",
       "applicationId": "com.allephnogueira.trocaoleo",
       "path": "home/privacidade-troca-oleo.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-troca-oleo.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-troca-oleo.html"
     },
     {
       "folder": "VacinaCrianca",
       "label": "Vacina Criança",
       "applicationId": "com.allephnogueira.vacinacrianca",
       "path": "home/privacidade-vacina-crianca.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-vacina-crianca.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-vacina-crianca.html"
     },
     {
       "folder": "VistoriaImovel",
       "label": "Vistoria Imóvel",
       "applicationId": "com.allephnogueira.vistoriaimovel",
       "path": "home/privacidade-vistoria-imovel.html",
-      "urlExample": "https://SEU_USUARIO.github.io/SEU_REPO/home/privacidade-vistoria-imovel.html"
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-vistoria-imovel.html"
     }
   ]
 }
