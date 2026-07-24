@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CafeCode — Validação de certificado</title>
+  <style>
+    :root {
+      --cream: #F7F1E8;
+      --ink: #1C1A17;
+      --primary: #C47A3A;
+      --ok: #2F6F4E;
+      --bad: #B3261E;
+      --surface: #FFFBF6;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Segoe UI", system-ui, sans-serif;
+      background: linear-gradient(160deg, var(--cream), #efe4d4 60%, #e8d5bc);
+      color: var(--ink);
+      min-height: 100vh;
+      padding: 2rem 1.25rem 3rem;
+    }
+    main {
+      max-width: 40rem;
+      margin: 0 auto;
+      background: var(--surface);
+      border-radius: 1.25rem;
+      padding: 1.75rem;
+      box-shadow: 0 12px 40px rgba(28, 26, 23, 0.08);
+    }
+    .logo {
+      width: 3.5rem;
+      height: 3.5rem;
+      border-radius: 0.85rem;
+      background: var(--primary);
+      display: grid;
+      place-items: center;
+      color: #fff;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      margin-bottom: 1rem;
+    }
+    h1 { font-size: 1.5rem; margin: 0 0 0.35rem; }
+    .brand { color: var(--primary); font-weight: 700; margin-bottom: 1.25rem; }
+    .status {
+      display: inline-block;
+      padding: 0.4rem 0.85rem;
+      border-radius: 999px;
+      font-weight: 700;
+      margin-bottom: 1.25rem;
+    }
+    .status.ok { background: rgba(47, 111, 78, 0.15); color: var(--ok); }
+    .status.bad { background: rgba(179, 38, 30, 0.12); color: var(--bad); }
+    .status.wait { background: rgba(28, 26, 23, 0.08); color: var(--ink); }
+    dl { margin: 0; }
+    dt { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.06em; opacity: 0.65; margin-top: 0.85rem; }
+    dd { margin: 0.2rem 0 0; font-size: 1.05rem; }
+    ul { margin: 0.35rem 0 0; padding-left: 1.1rem; }
+    .note { margin-top: 1.5rem; font-size: 0.85rem; opacity: 0.75; line-height: 1.45; }
+  </style>
+</head>
+<body>
+  <main>
+    <div class="logo" aria-hidden="true">CC</div>
+    <p class="brand">CafeCode</p>
+    <h1>Validação de Skill Certificate</h1>
+    <div id="status" class="status wait">Verificando…</div>
+    <dl>
+      <dt>Nome</dt>
+      <dd id="name">—</dd>
+      <dt>Habilidade</dt>
+      <dd id="title">—</dd>
+      <dt>Número</dt>
+      <dd id="number">—</dd>
+      <dt>Data de emissão</dt>
+      <dd id="date">—</dd>
+      <dt>Carga horária</dt>
+      <dd id="hours">—</dd>
+      <dt>Conclusão</dt>
+      <dd id="pct">—</dd>
+      <dt>Tempo de estudo</dt>
+      <dd id="min">—</dd>
+      <dt>Competências</dt>
+      <dd><ul id="comps"></ul></dd>
+    </dl>
+    <p class="note">
+      Verificação client-side P1 (HMAC-SHA256). A chave embutida espelha
+      <code>CertificateSigner.CHAVE_SECRETA_PADRAO</code> do app — não é segredo de produção.
+    </p>
+  </main>
+  <script src="./validate.js"></script>
+</body>
+</html>
