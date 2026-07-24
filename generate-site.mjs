@@ -32,6 +32,7 @@ function toSlug(folder) {
     PossoComprar: "posso-comprar",
     LarControl: "lar-control",
     TecnoGestor: "tecno-gestor",
+    CafeCode: "cafecode",
   };
   if (special[folder]) return special[folder];
   return String(folder)
@@ -72,6 +73,8 @@ function buildProfile(app) {
     EscolaKids: "organizaÃ§Ã£o escolar infantil (rotina e lembretes)",
     PetVacina: "cartÃ£o de vacinas e lembretes do pet",
     PersonalFit: "rotina de treinos e acompanhamento fitness local",
+    CafeCode:
+      "ensino de Java do zero com aulas, projetos, gamificação e certificados de habilidade (dados locais no aparelho)",
   };
 
   const purpose =

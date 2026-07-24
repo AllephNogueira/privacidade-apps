@@ -30,6 +30,13 @@
       "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-autonomo-precos.html"
     },
     {
+      "folder": "CafeCode",
+      "label": "CafeCode - Aprenda Java",
+      "applicationId": "com.allephnogueira.cafecode",
+      "path": "home/privacidade-cafecode.html",
+      "urlExample": "https://allephnogueira.github.io/privacidade-apps/home/privacidade-cafecode.html"
+    },
+    {
       "folder": "CartaoFatura",
       "label": "Cartão Fatura",
       "applicationId": "com.allephnogueira.cartaofatura",
